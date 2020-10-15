@@ -1,0 +1,159 @@
+.my-img-nav
+{
+    width: 99px;
+    height: 50px;
+    margin-top: -15px;
+}
+.my-crsl-img1
+{
+    position: absolute;
+    top: 30%;
+    bottom: 0;
+    right: 0;
+    left: 70%;
+    width: 25%;
+    opacity: 1;
+}
+.my-crsl-text1
+{   
+    position: absolute;
+    top: 30%;
+    bottom: 0;
+    right: 0;
+    left: 10%;
+    color: white;
+}
+.my-crsl-img2
+{
+    position: absolute;
+    top: 30%;
+    bottom: 0;
+    right: 0;
+    left: 50%;
+    width: 40%;
+    
+}
+.my-crsl-text2
+{
+    position: absolute;
+    top: 30%;
+    bottom: 0;
+    left: 10%;
+    right: 0;
+    color: white;
+}
+.my-crsl-img3
+{
+    position: absolute;
+    top: 15%;
+    bottom: 0;
+    left: 60%;
+    right: 0;
+    width: 400px;
+}
+.my-crsl-text3
+{
+    position: absolute;
+    top: 20%;
+    bottom: 0;
+    right: 0;
+    left: 10%;
+    color: white;
+    
+}
+.my-text-pad
+{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 40px;
+
+}
+.my-col-pad
+{
+    background-color: white;
+    height: 200px;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 70px;
+    margin-bottom: 30px;
+}
+.my-row-pad
+{
+    margin-top: -20px;
+    background-color: darkgrey;
+}
+.my-font
+{
+    margin-top: 50px;
+    margin-left: 120px;
+    
+}
+   
+.my-parallax1 {
+  /* The image used */
+  background-image: url("/image/landscape-4254269__340.jpg");
+  background-attachment: fixed;
+  /* Set a specific height */
+  min-height: 500px; 
+  margin-top: -42px;
+        
+    
+  /* Create the parallax scrolling effect */
+/*  background-attachment: fixed;*/
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.my-para-text
+{
+    text-align: center;
+    color: white;
+}
+.my-port-text
+{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.my-parallax {
+  /* The image used */
+  background-image: url("/image/sky-4237062__340.jpg");
+  background-attachment: fixed;
+  /* Set a specific height */
+  min-height: 500px; 
+  margin-top: -42px;
+    
+      
+    
+  /* Create the parallax scrolling effect */
+/*  background-attachment: fixed;*/
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.my-client-text
+{    margin-top: 5%;
+    margin-bottom: 10%;
+    text-align: center;
+    
+}
+.my-icon-margin
+{ 
+    position: absolute;    
+    color: white;
+    top: -350px;
+    bottom: 0;
+    left:0;
+    right: 0;
+
+}
+.my-font-text1
+{   
+    position: absolute;
+    top: -250px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: white;
+}
